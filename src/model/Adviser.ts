@@ -1,5 +1,5 @@
 import { Character } from './Character';
-import { Fighter } from './fighter';
+import { Fighter } from './Fighter';
 import { King } from './King';
 import { Squire } from './Squire';
 
