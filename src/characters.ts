@@ -16,4 +16,4 @@ const daniela: Fighter = new Fighter(
 const tiburcio: Adviser = new Adviser('Tiburcio', 'Fernandez', 50, daniela);
 const bronca: Squire = new Squire('Bronca', '', 34, jaime, 2);
 
-const gang: Character[] = [yofri, jaime, daniela, tiburcio, bronca];
+export const gang: Character[] = [yofri, jaime, daniela, tiburcio, bronca];

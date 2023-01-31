@@ -6,5 +6,7 @@ export abstract class Character {
     this.alive = false;
   };
 
-  toTell = () => {};
+  toTell = () => {
+    console.log('I don´t know why, but I think I will die soon');
+  };
 }
